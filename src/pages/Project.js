@@ -83,7 +83,7 @@ const Project = () => {
                 <FaHtml5 className='text-xl text-red-500' />
                 <p className='font-semibold text-gray-400 '>HTML</p>
               </div>
-
+              {/* ljl */}
               {/* icons */}
 
               <div className='cursor-pointer flex items-center justify-center gap-5 px-4'>
